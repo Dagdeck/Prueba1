@@ -1,12 +1,14 @@
-# Mi Prototipo 1 para trabajar con Git
-## Concepto
-Este es mi repositorio para **verificar** y **trabajar** con mis companeros remotamente
+# trabajando con repositorios
+
+Este repositorio**practicar** y *explorar* github
 
 > Unity es fenomenal
+~~este es un error~~
+***Errores a solucionar***
 
-Este es un ejemplo de un codigo en archivo READ.md
+codigo a estudiar
 ```
-git status
-git add
-git commit
+git 1
+git 2
+git3
 ```
